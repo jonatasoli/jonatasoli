@@ -40,20 +40,6 @@ jonatas = dict(
 )
 ```
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=jonatasoli&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-  <br>
-</p>
-
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jonatasoli&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=jonatasoli&repo=pixel-weather">
-</p> -->
-
-
-<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devjonatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjonatas" height="30" width="40" /></a>
