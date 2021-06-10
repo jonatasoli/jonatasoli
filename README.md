@@ -1,16 +1,17 @@
 # Hi 👋, I'm Jônatas Oliveira
 ### Developer
 
-- 🔭 I’m currently working on Partyou Pay
-- 🌱 I’m currently learning Rust and Lua
+- 🔭 I’m currently working on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
+- 🌱 I’m currently learning **Rust and Lua**
 - 👯 I’m looking to collaborate on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
-- 🤔 I’m looking for help with create ecommerce-tool [FastEcommece](https://github.com/jonatasoli/fast-ecommerce)
+- 🤝 I’m looking for help with [Fast Ecommerce](https://github.com/jonatasoli/fast-ecommerce)
+- 📝 I regularly write articles on [https://jonatasoliveira.dev/](https://jonatasoliveira.dev/)
 - 💼 Opted to Hire
-- 📝 Checkout my [resume](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
-- 📫 How to reach me: contact@jonatasoliveira.dev
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
 - ⚡ Fun fact: I like cooking
-- 💬 Ask me about anything tech related, I am happy to help;
+- 💬 Ask me about **Ask me about anything tech related, I am happy to help**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
+- 📫 How to reach me **contact@jonatasoliveira.dev**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```python
@@ -53,4 +54,14 @@ jonatas = dict(
 
 
 <!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devjonatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjonatas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonatasoliveirame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonatasoliveirame" height="30" width="40" /></a>
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasoli&show_icons=true&locale=en&layout=compact" alt="jonatasoli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasoli&show_icons=true&locale=en" alt="jonatasoli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonatasoli&" alt="jonatasoli" /></p>
