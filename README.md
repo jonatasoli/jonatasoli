@@ -1,6 +1,17 @@
 # Hi 👋, I'm Jônatas Oliveira
 ### Developer
 
+- 🔭 I’m currently working on Partyou Pay
+- 🌱 I’m currently learning Rust and Lua
+- 👯 I’m looking to collaborate on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
+- 🤔 I’m looking for help with create ecommerce-tool [FastEcommece](https://github.com/jonatasoli/fast-ecommerce)
+- 💼 Opted to Hire
+- 📝 Checkout my [resume](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
+- 📫 How to reach me: contact@jonatasoliveira.dev
+- ⚡ Fun fact: I like cooking
+- 💬 Ask me about anything tech related, I am happy to help;
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```python
 jonatas = dict(
@@ -42,12 +53,4 @@ jonatas = dict(
 
 
 <!--
-
-- 🔭 I’m currently working on Partyou Pay
-- 🌱 I’m currently learning Rust and Lua
-- 👯 I’m looking to collaborate on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
-- 🤔 I’m looking for help with create ecommerce-tool [FastEcommece](https://github.com/jonatasoli/fast-ecommerce)
-- 📫 How to reach me: contact@jonatasoliveira.dev
-- ⚡ Fun fact: I like cooking
--->
 
