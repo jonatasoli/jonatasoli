@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with [Fast Ecommerce](https://github.com/jonatasoli/fast-ecommerce)
 - 📝 I regularly write articles on [https://jonatasoliveira.dev/](https://jonatasoliveira.dev/)
 - 💼 Opted to Hire
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
+- 📄 Know about my experiences [in my resume](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
 - ⚡ Fun fact: I like cooking
 - 💬 Ask me about **Ask me about anything tech related, I am happy to help**
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
