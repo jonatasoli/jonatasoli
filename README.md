@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jônatas Oliveira
 ### Developer
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR60M0uWg/giphy.gif" width-"50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width-"50"> A little more about me...
 ```python
 jonatas = dict(
     pronouns: ("He",  "Him",),
