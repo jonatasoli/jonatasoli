@@ -53,6 +53,3 @@ jonatas = dict(
   <br>
   <br>
 </p>
-<p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jonatasoli&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=jonatasoli&repo=pixel-weather">
