@@ -56,7 +56,3 @@ jonatas = dict(
 <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jonatasoli&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=jonatasoli&repo=pixel-weather">
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatasoli&show_icons=true&locale=en&layout=compact" alt="jonatasoli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasoli&show_icons=true&locale=en" alt="jonatasoli" /></p>
