@@ -13,6 +13,55 @@
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
 - 📫 How to reach me **contact@jonatasoliveira.dev**
 
+---
+##Main projects
+
+[Fast Ecommerce](https://github.com/jonatasoli/Fast-Ecommerce/blob/main/README.md)
+This is a ecommerce open source project using fastapi and vue
+### next activities
+* Need update libs
+* Need update project to monorepo
+* Make the project more generic
+* Remove hard coded
+
+
+[FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
+Fastapi tempalte with many layouts to use how, simple api project, modular api project and microservice project.
+### next activities
+* Finish Simple api project and convert in cookiecutter
+* Create modular api project
+* Microservice project
+
+---
+## Future Projects
+
+[Megaten API](https://github.com/jonatasoli/Megaten-API)
+API in actix to show demons status based to (aqiu384)[https://aqiu384.github.io/]
+### next activities
+* Start project
+
+
+[Austism Objectivies](https://github.com/jonatasoli/Autism-Objectives)
+Web and mobile system to record therapeutic goals for children with autism.
+### next activities
+* Start project
+
+[Support NeoVim](https://github.com/neovim/neovim)
+Support neovim project
+### next activities
+* Start project
+
+[Support Dynaconf](https://github.com/rochacbruno/dynaconf)
+Support Dynaconf project
+### next activities
+* Start project
+
+FastAPI auth
+Auth Lib for FastAPI
+### next activities
+* Start project
+---
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```python
 jonatas = dict(
