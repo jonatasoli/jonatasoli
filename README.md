@@ -18,6 +18,7 @@
 
 [Fast Ecommerce](https://github.com/jonatasoli/Fast-Ecommerce/blob/main/README.md)
 This is a ecommerce open source project using fastapi and vue
+
 __next activities__
 * Need update libs
 * Need update project to monorepo
@@ -27,6 +28,7 @@ __next activities__
 
 [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
 Fastapi tempalte with many layouts to use how, simple api project, modular api project and microservice project.
+
 __next activities__
 * Finish Simple api project and convert in cookiecutter
 * Create modular api project
@@ -37,27 +39,32 @@ __next activities__
 
 [Megaten API](https://github.com/jonatasoli/Megaten-API)
 API in actix to show demons status based to (aqiu384)[https://aqiu384.github.io/]
+
 __next activities__
 * Start project
 
 
 [Austism Objectivies](https://github.com/jonatasoli/Autism-Objectives)
 Web and mobile system to record therapeutic goals for children with autism.
+
 __next activities__
 * Start project
 
 [Support NeoVim](https://github.com/neovim/neovim)
 Support neovim project
+
 __next activities__
 * Start project
 
 [Support Dynaconf](https://github.com/rochacbruno/dynaconf)
 Support Dynaconf project
+
 **next activities**
 * Start project
 
 FastAPI auth
 Auth Lib for FastAPI
+
 **next activities**
 * Start project
 ---
