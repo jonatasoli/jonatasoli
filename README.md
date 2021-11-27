@@ -69,21 +69,18 @@ Auth Lib for FastAPI
 * Start project
 
 **Fast Finances**
-
 API to manage your finances with FastAPI and Grafenne (Or Ts and prisma yoga), front end in Vue and mobile in Flutter
 
 **next activities**
 * Start project
 
 **Planing Life**
-
 System to organize my monthly, quarterly, semiannual and annual goals.
 
 **next activities**
 * Start project
 
 **Game Project**
-
 Create plataform game (love, unity or amentyst).
 
 **next activities**
