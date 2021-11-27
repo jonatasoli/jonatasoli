@@ -38,7 +38,7 @@ __next activities__
 ## Future Projects
 
 [Megaten API](https://github.com/jonatasoli/Megaten-API)
-API in actix to show demons status based to (aqiu384)[https://aqiu384.github.io/]
+API in actix to show demons status based to [aqiu384](https://aqiu384.github.io/)
 
 __next activities__
 * Start project
@@ -69,7 +69,22 @@ Auth Lib for FastAPI
 * Start project
 
 **Fast Finances**
+
 API to manage your finances with FastAPI and Grafenne (Or Ts and prisma yoga), front end in Vue and mobile in Flutter
+
+**next activities**
+* Start project
+
+**Planing Life**
+
+System to organize my monthly, quarterly, semiannual and annual goals.
+
+**next activities**
+* Start project
+
+**Game Project**
+
+Create plataform game (love, unity or amentyst).
 
 **next activities**
 * Start project
