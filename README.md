@@ -67,6 +67,12 @@ Auth Lib for FastAPI
 
 **next activities**
 * Start project
+
+**Fast Finances**
+API to manage your finances with FastAPI and Grafenne (Or Ts and prisma yoga), front end in Vue and mobile in Flutter
+
+**next activities**
+* Start project
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
