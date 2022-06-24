@@ -37,13 +37,12 @@ __next activities__
 ---
 ## Future Projects
 
-* Start project
-
-**Fast Finances**
-API to manage your finances with FastAPI and Grafenne (Or Ts and prisma yoga), front end in Vue and mobile in Flutter
+**Personal Finances**
+API to manage your finances with Python/FastAPI API, CLI Tui/Rust, Front Vue/Ts and Mobile Flutter/Dart
 
 **Game Project**
 Create plataform game (love, unity or amentyst).
+
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
