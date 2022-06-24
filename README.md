@@ -37,54 +37,13 @@ __next activities__
 ---
 ## Future Projects
 
-[Megaten API](https://github.com/jonatasoli/Megaten-API)
-API in actix to show demons status based to [aqiu384](https://aqiu384.github.io/)
-
-__next activities__
-* Start project
-
-
-[Austism Objectivies](https://github.com/jonatasoli/Autism-Objectives)
-Web and mobile system to record therapeutic goals for children with autism.
-
-__next activities__
-* Start project
-
-[Support NeoVim](https://github.com/neovim/neovim)
-Support neovim project
-
-__next activities__
-* Start project
-
-[Support Dynaconf](https://github.com/rochacbruno/dynaconf)
-Support Dynaconf project
-
-**next activities**
-* Start project
-
-FastAPI auth
-Auth Lib for FastAPI
-
-**next activities**
 * Start project
 
 **Fast Finances**
 API to manage your finances with FastAPI and Grafenne (Or Ts and prisma yoga), front end in Vue and mobile in Flutter
 
-**next activities**
-* Start project
-
-**Planing Life**
-System to organize my monthly, quarterly, semiannual and annual goals.
-
-**next activities**
-* Start project
-
 **Game Project**
 Create plataform game (love, unity or amentyst).
-
-**next activities**
-* Start project
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
