@@ -2,7 +2,7 @@
 ### Developer
 
 - 🔭 I’m currently working on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
-- 🌱 I’m currently learning **Rust and Lua**
+- 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
 - 🤝 I’m looking for help with [Fast Ecommerce](https://github.com/jonatasoli/fast-ecommerce)
 - 📝 I regularly write articles on [https://jonatasoliveira.dev/](https://jonatasoliveira.dev/)
