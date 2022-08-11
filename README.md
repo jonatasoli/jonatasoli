@@ -14,30 +14,9 @@
 - 📫 How to reach me **contact@jonatasoliveira.dev**
 
 ---
-##Main projects
-
-[Fast Ecommerce](https://github.com/jonatasoli/Fast-Ecommerce/blob/main/README.md)
-This is a ecommerce open source project using fastapi and vue
-
-__next activities__
-* Need update libs
-* Need update project to monorepo
-* Make the project more generic
-* Remove hard coded
-
-
-[FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
-Fastapi tempalte with many layouts to use how, simple api project, modular api project and microservice project.
-
-__next activities__
-* Finish Simple api project and convert in cookiecutter
-* Create modular api project
-* Microservice project
-
----
 ## Future Projects
 
-**Personal Finances**
+[**Personal Finances**](https://github.com/jonatasoli/finances-mono)
 API to manage your finances with Python/FastAPI API, CLI Tui/Rust, Front Vue/Ts and Mobile Flutter/Dart
 
 **Game Project**
