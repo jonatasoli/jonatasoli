@@ -20,7 +20,7 @@
 API to manage your finances with Python/FastAPI API, CLI Tui/Rust, Front Vue/Ts and Mobile Flutter/Dart
 
 **Game Project**
-Create plataform game (love, unity or amentyst).
+Create plataform game (Godot or Bevy).
 
 ---
 
