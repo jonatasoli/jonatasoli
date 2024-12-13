@@ -6,12 +6,12 @@
 
 ### Developer
 
-- 🔭 I’m currently working on [FastEcommerce][https://github.com/jonatasoli/fastapi-template-cookiecutter](https://github.com/jonatasoli/fast-ecommerce)
+- 🔭 I’m currently working on [FastEcommerce][https://github.com/jonatasoli/fastapi-ecommerce](https://github.com/jonatasoli/fast-ecommerce)
 - 🏫 I'm developing the rust course (In Portuguese) - [Rust Lógica com jogos](https://www.udemy.com/course/rust-da-logica-aos-jogos/?referralCode=C82C9336A8CF938D12E7)
 - 🌱 I’m currently learning **Lua**
 - 👯 I’m looking to collaborate on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
 - 🤝 I’m looking for help with [Fast Ecommerce](https://github.com/jonatasoli/fast-ecommerce)
-- 📝 I regularly write articles on [https://jonatasoliveira.dev/](https://jonatasoliveira.dev/)
+- 📝 I regularly write articles on [https://blog.jonatasoliveira.dev/](https://blog.jonatasoliveira.dev/)
 - 💼 Opted to Hire
 - 📄 Know about my experiences [in my resume](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
 - ⚡ Fun fact: I like cooking
@@ -34,26 +34,23 @@ Create plataform game (Godot or Bevy).
 ```python
 jonatas = dict(
     pronouns: ("He",  "Him",),
-    code: ["Python", "Javascript", "Dart", "Lua", "Rust", "Java", "ShellScript"],
+    code: ["Python", "Javascript", "Lua", "Rust", "ShellScript"],
     askMeAbout: ["APIs", "Microservice", "Vue", "Docker/Kubernetes", "Tilling Managers", "NeoVim", "Shin Megami Tensei"],
     technologies: dict(
         backEnd: {
             "python": ["FastAPI", "Flask", "Django"],
-	    "rust": ["Tokio"],
+	    "rust": ["Actix"],
         },
         frontEnd: {
-            "js": ["Vue", "Nuxt"],
+            "js": ["Vue", "Nuxt", "Svelte"],
             "css": ["materialize", "vuetify", "bootstrap", "tailwind"]
-        },
-        mobileApp: {
-            "hybrid": ["Flutter"]
         },
 	script: ["lua", "shell script"]
         devOps: ["AWS", "GCP", "Docker🐳", "Kubernetes", "Kong", "Hashicorp", "Concourse", "Gitlab"],
         databases: ["postgres", "MySql", "Oracle", "SQLServer", "Sybase", "sqlite", "Redis", "Elastic"],
     },
     architecture: ["Monolithic", "Microservice", "Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Microservice Development",
+    currentFocus: "Web Development",
 )
 ```
 
