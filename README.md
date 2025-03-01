@@ -6,7 +6,7 @@
 
 ### Developer
 
-- 🔭 I’m currently working on [FastEcommerce][https://github.com/jonatasoli/fastapi-ecommerce](https://github.com/jonatasoli/fast-ecommerce)
+- 🔭 I’m currently working on [Capicart][https://github.com/jonatasoli/fastapi-ecommerce](https://github.com/jonatasoli/capicart)
 - 🏫 I'm developing the rust course (In Portuguese) - [Rust Lógica com jogos](https://www.udemy.com/course/rust-da-logica-aos-jogos/?referralCode=C82C9336A8CF938D12E7)
 - 🌱 I’m currently learning **Lua**
 - 👯 I’m looking to collaborate on [FastAPI Template](https://github.com/jonatasoli/fastapi-template-cookiecutter)
