@@ -12,7 +12,7 @@
 | ------------- | ------------------------------------ |
 | **Name**      | Jônatas Oliveira                     |
 | **Class**     | Full-Stack Developer & Educator      |
-| **Level**     | 17+ years                             |
+| **Level**     | 7+ years                             |
 | **Alignment** | Chaotic Good (Empowering Developers) |
 | **Basecamp**  | Brazil                               |
 | **Meetup**    | Rust Basel (Monthly Tabletop-Style)  |
@@ -78,7 +78,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonatasoli&show_icons=true&count_private=true&theme=catppuccin&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=12&show_icons=true&hide=C#" alt="Top Languages" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ## 📫 Send a Raven
 
 <p align="center">
-  🐦 [Twitter](https://twitter.com/devjonatas)
+  • 🐦 [Bluesky](https://bsky.app/profile/jonatasoliveira.dev)
   • 💼 [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
   • 📧 [Email](mailto:contact@jonatasoliveira.dev)
   • 🎥 [YouTube](https://www.youtube.com/@devjonatas)
