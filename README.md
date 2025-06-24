@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Jônatas Oliveira — Code Pathfinder
-
-![Profile Views](https://komarev.com/ghpvc/?username=jonatasoli\&label=Profile%20views\&color=0e75b6\&style=flat) ![Followers](https://img.shields.io/github/followers/jonatasoli?style=social) ![Sponsors](https://img.shields.io/github/sponsors/jonatasoli?style=social)
+# 👋 Hi, I'm Jônatas Oliveira — Full Stack developer
+![Followers](https://img.shields.io/github/followers/jonatasoli?style=social) ![Sponsors](https://img.shields.io/github/sponsors/jonatasoli?style=social)
 
 [📆 Book a Session](https://cal.com/devjonatas) • [📄 My Résumé](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
 
@@ -8,14 +7,14 @@
 
 ## 🎲 Character Sheet
 
-| Attribute     | Value                                |
-| ------------- | ------------------------------------ |
-| **Name**      | Jônatas Oliveira                     |
-| **Class**     | Full-Stack Developer & Educator      |
-| **Level**     | 7+ years                             |
-| **Alignment** | Chaotic Good (Empowering Developers) |
-| **Basecamp**  | Brazil                               |
-| **Meetup**    | Rust Basel (Monthly Tabletop-Style)  |
+| Attribute     | Value                                   |
+| ------------- | --------------------------------------- |
+| **Name**      | Jônatas Oliveira                        |
+| **Class**     | Full-Stack Developer & Educator         |
+| **Level**     | +17 years                               |
+| **Alignment** | Chaotic Neutral (Empowering Developers) |
+| **Basecamp**  | Germany                                 |
+| **Meetup**    | Rust Basel (Monthly Tabletop-Style)     |
 
 ---
 
@@ -23,12 +22,12 @@
 
 | Skill Category   | Details                                                                                                                                                                                                                                                                                                                                                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **🔮 Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square\&logo=rust) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square\&logo=lua)              |
-| **⚙️ Back-End**  | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi) ![Actix](https://img.shields.io/badge/-Actix-000000?style=flat-square\&logo=rust) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express)                                                                                               |
-| **🌐 Front-End** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square\&logo=vue.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square\&logo=svelte)                                                                                                    |
-| **🚀 DevOps**    | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square\&logo=google-cloud) |
-| **🗄️ Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square\&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square\&logo=redis) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square\&logo=sqlite)                                                                                        |
-| **🧪 Testing**   | ![Pytest](https://img.shields.io/badge/-Pytest-3A405A?style=flat-square\&logo=pytest) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square\&logo=jest)                                                                                                                                                                                             |
+| **🔮 Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square\&logo=rust) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square\&logo=lua)                                                                                                                                                                                      |
+|  **⚙️ Back-End** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi) ![Axum](https://img.shields.io/badge/-Axum-000000?style=flat-square\&logo=rust) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask) ![Actix](https://img.shields.io/badge/-Actix-000000?style=flat-square\&logo=rust) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square\&logo=express)              |
+| **🌐 Front-End** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square\&logo=vue.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square\&logo=svelte) ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat-square\&logo=flutter)                                                                                                                                                                           |
+|    **🚀 DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square\&logo=google-cloud) ![Dokku](https://img.shields.io/badge/-Dokku-444444?style=flat-square\&logo=dokku)                                                                                      |
+| **🗄️ Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square\&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square\&logo=redis) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square\&logo=sqlite) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square\&logo=oracle) ![Sybase](https://img.shields.io/badge/-Sybase-276588?style=flat-square\&logo=sybase) |
+|   **🧪 Testing** | ![Pytest](https://img.shields.io/badge/-Pytest-3A405A?style=flat-square\&logo=pytest) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square\&logo=jest)                                                                                                                                                                                                                                                                                                                                                                     |
 
 ---
 
@@ -41,7 +40,7 @@
 | **Key Runes**             | Creator — Rust CLI for keyboard layouts [🔗](https://github.com/jonatasoli/keyrunes)                                          |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0ExnZU2ohfGPNgta/giphy.gif" alt="rolling dice" width="180"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml3bnVpdjUweTdoaGYxY3RuYjgydHF0bHJ3bDdpd3BidzM4ZDgycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bubpLP4o75fmIVukRr/giphy.gif" alt="rolling dice" width="180"/>
 </p>
 
 ---
@@ -78,7 +77,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonatasoli&show_icons=true&count_private=true&theme=catppuccin&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=12&show_icons=true&hide=C#" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=12&show_icons=true&hide=C#](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=6&show_icons=true&hide=C%23,Javascript,CSS,SCSS,DIGITAL%20Command%20Language" alt="Top Languages" />
 </p>
 
 ---
@@ -87,10 +86,15 @@
 
 <p align="center">
   • 🐦 [Bluesky](https://bsky.app/profile/jonatasoliveira.dev)
+  
   • 💼 [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
+  
   • 📧 [Email](mailto:contact@jonatasoliveira.dev)
+  
   • 🎥 [YouTube](https://www.youtube.com/@devjonatas)
+  
   • 🎮 [Twitch](https://twitch.tv/devjonatas)
+  
 </p>
 
 ---
