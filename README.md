@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonatasoli&show_icons=true&count_private=true&theme=catppuccin&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=12&show_icons=true&hide=C#](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=6&show_icons=true&hide=C%23,Javascript,CSS,SCSS,DIGITAL%20Command%20Language" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasoli&layout=compact&theme=catppuccin&border_radius=10&langs_count=6&show_icons=true&hide=C%23,Javascript,CSS,SCSS,DIGITAL%20Command%20Language" alt="Top Languages" />
 </p>
 
 ---
