@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Jônatas Oliveira
 
 [📅 Schedule a meeting with me](https://cal.com/devjonatas)
+
 [📄 View my resume](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
+
 [💖 Sponsor me on GitHub](https://github.com/sponsors/jonatasoli)
 
 ---
