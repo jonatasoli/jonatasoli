@@ -85,6 +85,7 @@
 ## 📫 Send a Raven
 
 <p align="center">
+  
   • 🐦 [Bluesky](https://bsky.app/profile/jonatasoliveira.dev)
   
   • 💼 [LinkedIn](https://www.linkedin.com/in/jonatasoliveirame/)
