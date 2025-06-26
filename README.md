@@ -35,9 +35,9 @@
 
 | Quest                     | Role / Loot                                                                                                                   |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Capicart**              | Developer — FastAPI eCommerce (Stripe, Google, eNotas) [🔗](https://github.com/jonatasoli/capi-cart)                          |
+| **Capicart**              | Leader — FastAPI eCommerce (Stripe, Google, eNotas) [🔗](https://github.com/jonatasoli/capi-cart)                          |
 | **Rust Lógica com Jogos** | Instructor — Game-based Rust course (PT-BR) [🔗](https://hackerspace.jonatasoliveira.dev/courses-page/rust-logica-com-jogos/) |
-| **Key Runes**             | Creator — Rust CLI for keyboard layouts [🔗](https://github.com/jonatasoli/keyrunes)                                          |
+| **Key Runes**             | Leader — Rust CLI for keyboard layouts [🔗](https://github.com/jonatasoli/keyrunes)                                          |
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml3bnVpdjUweTdoaGYxY3RuYjgydHF0bHJ3bDdpd3BidzM4ZDgycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bubpLP4o75fmIVukRr/giphy.gif" alt="rolling dice" width="180"/>
