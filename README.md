@@ -14,7 +14,7 @@
 | **Level**     | +17 years                               |
 | **Alignment** | Chaotic Neutral (Empowering Developers) |
 | **Basecamp**  | Germany                                 |
-| **Meetup**    | Rust Basel (Monthly Tabletop-Style)     |
+| **Meetup**    | Rust Basel    |
 
 ---
 
