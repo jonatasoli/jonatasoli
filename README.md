@@ -4,6 +4,22 @@
 [📆 Book a Session](https://cal.com/devjonatas) • [📄 My Résumé](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
 
 ---
+📡 Connect & Stay Updated
+
+[Blog](https://blog.jonatasoliveira.dev)
+
+[Discord - Join Server](https://discord.gg/QnFaWJ9aQk)
+
+[YouTube](https://www.youtube.com/@devjonatas)
+
+[Twitch](https://www.twitch.tv/devjonatas)
+
+[Bluesky](https://bsky.app/profile/devjonatas.bsky.social)
+
+[Newsletter](https://newsletter.jonatasoliveira.dev)
+
+Email: contact@jonatasoliveira.dev
+
 
 ## 🎲 Character Sheet
 
