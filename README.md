@@ -6,6 +6,8 @@
 ---
 📡 Connect & Stay Updated
 
+[Private Git](https://forgejo.singularjourney.host/)
+
 [Blog](https://blog.jonatasoliveira.dev)
 
 [Discord - Join Server](https://discord.gg/QnFaWJ9aQk)
