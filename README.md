@@ -6,7 +6,7 @@
 ---
 📡 Connect & Stay Updated
 
-[Private Git](https://forgejo.singularjourney.host/)
+[Private Git](https://forgejo.singularjourney.org/)
 
 [Blog](https://blog.jonatasoliveira.dev)
 
