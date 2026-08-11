@@ -5,7 +5,7 @@
 ---
 📡 Connect & Stay Updated
 
-[Github](https://github.com/devjonatas)
+[Git](https://forgejo.singularjourney.org/devjonatas)
 
 [Blog](https://blog.jonatasoliveira.dev)
 
