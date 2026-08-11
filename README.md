@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Jônatas Oliveira — Full Stack developer
-![Followers](https://img.shields.io/github/followers/jonatasoli?style=social) ![Sponsors](https://img.shields.io/github/sponsors/jonatasoli?style=social)
 
-[📆 Book a Session](https://cal.com/devjonatas) • [📄 My Résumé](https://drive.google.com/drive/u/0/folders/1QOwlNXVRIOx0nc8dCh4EI9lievyWXpk4)
+[📆 Book a Session](https://cal.com/devjonatas) • [📄 My Résumé](https://jonatasoliveira.dev/ats)
 
 ---
 📡 Connect & Stay Updated
 
-[Private Git](https://forgejo.singularjourney.org/)
+[Github](https://github.com/devjonatas)
 
 [Blog](https://blog.jonatasoliveira.dev)
 
@@ -53,7 +52,6 @@ Email: contact@jonatasoliveira.dev
 
 | Quest                     | Role / Loot                                                                                                                   |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Capicart**              | Leader — FastAPI eCommerce multi-coin and comissions system [🔗](https://github.com/jonatasoli/capi-cart)                          |
 | **Rust Lógica com Jogos** | Instructor — Game-based Rust course (PT-BR) [🔗](https://hackerspace.jonatasoliveira.dev/courses-page/rust-logica-com-jogos/) |
 | **Key Runes**             | Leader — Rust Auth rbac Solutino[🔗](https://github.com/jonatasoli/keyrunes)                                          |
 
@@ -76,7 +74,7 @@ Email: contact@jonatasoliveira.dev
 
 ## 🤝 How to Join the Guild
 
-1. ⭐ Star [Capicart](https://github.com/jonatasoli/capi-cart) & [Key Runes](https://github.com/jonatasoli/keyrunes)
+1. ⭐ Star [Key Runes](https://github.com/jonatasoli/keyrunes)
 2. 🛠️ Submit an issue or pull request
 3. 🎥 Suggest new video tutorials or stream topics
 4. 🗣️ Participate in Rust Basel meetups and Discord chats
